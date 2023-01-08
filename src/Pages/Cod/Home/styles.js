@@ -8,6 +8,6 @@ background-color:#000919 ;
 
 export const CtnTop = styled.div`
 margin-top: 100px;
-margin-left:145px;
+margin-left:225px;
 
 `
