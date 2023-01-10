@@ -1,8 +1,10 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  h4 {
-    padding: 30px 150px;
+  h3 {
+    padding: 30px 0px;
+    text-align: center;
+    margin-left: 110px;
   }
 `;
 

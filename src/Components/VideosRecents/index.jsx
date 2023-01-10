@@ -6,7 +6,7 @@ export function VideoRecents() {
   return (
     <>
       <S.Container>
-        <h4>Videos Recentes</h4>
+        <h3>Videos Recentes</h3>
         <S.CtnVideos>
           <span>
             <MdArrowBackIosNew />

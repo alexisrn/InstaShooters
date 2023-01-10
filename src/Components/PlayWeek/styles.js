@@ -5,6 +5,10 @@ export const Container = styled.div`
 margin-left:130px;
 margin-bottom:30px;
 
+h3{
+    text-align:center;
+}
+
 `
 
 export const Video = styled.div`
